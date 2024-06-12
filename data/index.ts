@@ -112,12 +112,12 @@ export const skills = [
   {
     id: 5,
     category: "Tools & Platforms",
-    details: ["Git & GitHub", "Slack", "Jira", "MySQL CLI & Workbench", "Cloudinary", "Scribe", "Canva", "VSCode", "cPanel",],
+    details: ["Slack", "Jira", "MySQL CLI & Workbench", "Cloudinary", "Scribe", "Canva", "VSCode", "cPanel",],
   },
   {
     id: 6,
     category: "DevOps & Cloud",
-    details: ["AWS", "Firebase", "PuTTY", "CI/CD Pipelines"],
+    details: ["AWS", "Firebase", "PuTTY", "CI/CD Pipelines", "Git & GitHub"],
   },
   {
     id: 7,

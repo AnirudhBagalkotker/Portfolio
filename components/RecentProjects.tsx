@@ -70,7 +70,7 @@ const RecentProjects = () => {
                   <a className="flex lg:text-xl md:text-xs text-sm text-purple" href={item.link}>
                     Check Live Site
                   </a>
-                  <FaLocationArrow className="ms-3" color="#CBACF9" />
+                  <FaLocationArrow className="ms-3" color="#9efdfb" />
                 </div>
               </div>
             </PinContainer>
