@@ -97,7 +97,7 @@ export const skills = [
   {
     id: 2,
     category: "Front-end Development",
-    details: ["HTML/CSS", "XML", "React.js", "Next.js", "Framer Motion", "Tailwind", "Three.js", "Web Design", "Figma",],
+    details: ["HTML", "CSS", "React.js", "Next.js", "XML", "Framer Motion", "Tailwind", "Three.js", "Web Design",],
   },
   {
     id: 3,
@@ -112,7 +112,7 @@ export const skills = [
   {
     id: 5,
     category: "Tools & Platforms",
-    details: ["Slack", "Jira", "Scribe", "Android Studio", "Canva", "VSCode", "Cloudinary", "cPanel",],
+    details: ["Figma", "Slack", "Jira", "Scribe", "Android Studio", "Canva", "VSCode", "Cloudinary", "cPanel",],
   },
   {
     id: 6,
