@@ -97,7 +97,7 @@ export const skills = [
   {
     id: 2,
     category: "Front-end Development",
-    details: ["HTML", "CSS", "React.js", "Next.js", "XML", "Tailwind", "Framer Motion", "Three.js", "Web Design",],
+    details: ["HTML", "CSS", "React.js", "Next.js", "XML", "Tailwind", "Framer Motion", "Three.js", "jQuery", "Web Design",],
   },
   {
     id: 3,
