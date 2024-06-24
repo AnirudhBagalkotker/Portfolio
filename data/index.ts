@@ -75,7 +75,7 @@ export const projects = [
     title: "Unity Books - Online Book Store",
     des: "The one-stop platform for reading and personal development.",
     img: "/p1.jpg",
-    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/three.svg"],
+    iconLists: ["/next.svg", "/re.svg", "/tail.svg", "/ts.svg", "/nodejs.svg", "/mysql.svg"],
     link: "https://unitybooks.in",
   },
   {
@@ -97,12 +97,12 @@ export const skills = [
   {
     id: 2,
     category: "Front-end Development",
-    details: ["HTML", "CSS", "React.js", "Next.js", "Framer Motion", "Tailwind CSS", "Three.js", "Web Design", "Figma",],
+    details: ["HTML/CSS", "XML", "React.js", "Next.js", "Framer Motion", "Tailwind", "Three.js", "Web Design", "Figma",],
   },
   {
     id: 3,
     category: "Back-end Development",
-    details: ["Node.js", "Express", "JWT", "MySQL", "MongoDB", "SpringBoot", "H2 Database", "API Design", "Postman",],
+    details: ["Node.js", "Express.js", "JWT", "MySQL", "MongoDB", "SpringBoot", "H2 Database", "API Design", "Postman",],
   },
   {
     id: 4,
@@ -112,17 +112,17 @@ export const skills = [
   {
     id: 5,
     category: "Tools & Platforms",
-    details: ["Slack", "Jira", "MySQL CLI & Workbench", "Cloudinary", "Scribe", "Canva", "VSCode", "cPanel",],
+    details: ["Slack", "Jira", "Scribe", "Android Studio", "Canva", "VSCode", "Cloudinary", "cPanel",],
   },
   {
     id: 6,
     category: "DevOps & Cloud",
-    details: ["AWS", "Firebase", "PuTTY", "CI/CD Pipelines", "Git & GitHub"],
+    details: ["AWS", "Firebase", "PuTTY", "CI/CD Pipelines", "Git & GitHub", "GitLab", "Docker", "GitHub Actions",],
   },
   {
     id: 7,
-    category: "Desktop Applications",
-    details: ["Tkinter", "Swing"],
+    category: "GUI Libraries",
+    details: ["Tkinter", "Swing", "AWT",],
   },
   {
     id: 8,
