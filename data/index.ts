@@ -97,7 +97,7 @@ export const skills = [
   {
     id: 2,
     category: "Front-end Development",
-    details: ["HTML", "CSS", "React.js", "Next.js", "XML", "Framer Motion", "Tailwind", "Three.js", "Web Design",],
+    details: ["HTML", "CSS", "React.js", "Next.js", "XML", "Tailwind", "Framer Motion", "Three.js", "Web Design",],
   },
   {
     id: 3,
@@ -117,7 +117,7 @@ export const skills = [
   {
     id: 6,
     category: "DevOps & Cloud",
-    details: ["AWS", "Firebase", "PuTTY", "CI/CD Pipelines", "Git & GitHub", "GitLab", "Docker", "GitHub Actions",],
+    details: ["AWS", "Firebase", "PuTTY", "CI/CD Pipelines", "Git & GitHub", "GitHub Actions", "GitLab",],
   },
   {
     id: 7,
