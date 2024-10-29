@@ -102,32 +102,32 @@ export const skills = [
   {
     id: 3,
     category: "Back-end Development",
-    details: ["Node.js", "Express.js", "JWT", "MySQL", "MongoDB", "SpringBoot", "H2 Database", "API Design", "Postman",],
+    details: ["Node.js", "Express.js", "FastAPI", "JWT", "MySQL", "PostgreSQL", "MongoDB", "Spring Boot", "H2", "RESTful APIs", "Postman",],
   },
   {
     id: 4,
     category: "Data Science",
-    details: ["PyTorch", "TensorFlow", "SciPy", "Sklearn", "NumPy", "Pandas", "Matplotlib", "Seaborn", "NLTK", "Kaggle",],
+    details: ["PyTorch", "TensorFlow", "SciPy", "scikit-learn", "NumPy", "Pandas", "MatPlotLib", "Seaborn", "NLTK", "Kaggle",],
   },
   {
     id: 5,
     category: "Tools & Platforms",
-    details: ["Figma", "Slack", "Jira", "Scribe", "Android Studio", "Canva", "VSCode", "Cloudinary", "cPanel",],
+    details: ["Figma", "Slack", "JIRA", "Scribe", "Android Studio", "Canva", "VSCode", "Cloudinary", "cPanel",],
   },
   {
     id: 6,
     category: "DevOps & Cloud",
-    details: ["AWS", "Firebase", "PuTTY", "CI/CD Pipelines", "Git & GitHub", "GitHub Actions", "GitLab",],
+    details: ["AWS", "Firebase", "Docker" , "Kubernetes", "PuTTY SSH", "CI/CD Pipelines", "Git", "GitHub", "GitHub Actions", "Agile", "Scrum"],
   },
   {
     id: 7,
     category: "GUI Libraries",
-    details: ["Tkinter", "Swing", "AWT",],
+    details: ["TKinter", "Swing", "AWT",],
   },
   {
     id: 8,
     category: "Other Skills",
-    details: ["Linux", "Shell Scripting", "Arduino", "Microsoft Clarity", "Google Analytics", "DevTools", "Product Management"],
+    details: ["Linux", "Shell Programming", "Arduino", "Microsoft Clarity", "Google Analytics", "DevTools", "Product Management"],
   },
 ];
 
